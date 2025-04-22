@@ -22,7 +22,7 @@ The turing machine is described by a text file in this repository. These text fi
 - Must be in binary notation
 - The recognized symbols are {#, $, 0, 1}
 - Input format should be of the form
-    #seed1#seed2#seed3#$
+    - #seed1#seed2#seed3#$
 
 ### Output:
 - There are 3 possible outputs
